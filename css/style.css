@@ -1,0 +1,143 @@
+body{
+    background: #111111;
+}
+.basement-backdrop{
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 48;
+    border-image-source: url(../assets/CSS_Border.webp);
+    border-image-width: 1;
+    box-shadow: 0px 0px 15px rgba(17, 17, 17, 0.8) inset;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.basement-floor{
+    background: url(../assets/Basement_floor.png);
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 48;
+    border-image-source: url(../assets/Basement_floor_border.png);
+    border-image-width: 1;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.caves-backdrop{
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 52;
+    border-image-source: url(../assets/Caves_backdrop.png);
+    border-image-width: 1;
+    box-shadow: 0px 0px 15px rgba(17, 17, 17, 0.8) inset;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.caves-floor{
+    background-image: url(../assets/Caves_floor.png);
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 28;
+    border-image-source: url(../assets/Caves_floor_border.png);
+    border-image-width: 1;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.depths-backdrop{
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 52;
+    border-image-source: url(../assets/Depths_backdrop.png);
+    border-image-width: 1;
+    box-shadow: 0px 0px 15px rgba(17, 17, 17, 0.8) inset;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.depths-floor{
+    background-image: url(../assets/Depths_floor.png);
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 48;
+    border-image-source: url(../assets/Depths_floor_border.png);
+    border-image-width: 1;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.womb-backdrop{
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 52;
+    border-image-source: url(../assets/Womb_border.png);
+    border-image-width: 1;
+    box-shadow: 0px 0px 15px rgba(17, 17, 17, 0.8) inset;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.womb-floor{
+    background-image: url(../assets/Womb_floor.png);
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 48;
+    border-image-source: url(../assets/Womb_floor_border.png);
+    border-image-width: 1;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.blue-womb-backdrop{
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 52;
+    border-image-source: url(../assets/Blue_womb_border.png);
+    border-image-width: 1;
+    box-shadow: 0px 0px 15px rgba(17, 17, 17, 0.8) inset;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.blue-womb-floor{
+    background-image: url(../assets/Blue_womb_floor.png);
+    border-radius: 0px 3px;
+    border-style: solid;
+    border-width: 36.667px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    border-image-slice: 48;
+    border-image-source: url(../assets/Blue_womb_floor_border.png);
+    border-image-width: 1;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
